@@ -7,7 +7,7 @@ export function Header() {
       <div className="flex items-center justify-center gap-2 mb-2">
         <Sparkles className="w-8 h-8 text-violet-500" />
         <h1 className="text-3xl font-bold text-violet-900">
-          Prompt Gallery
+          Prompt Archive
         </h1>
       </div>
       <p className="text-violet-600 max-w-md mx-auto">
