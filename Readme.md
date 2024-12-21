@@ -2,7 +2,7 @@
 
 ---
 
-Prompt Archive is a Vite-React web app designed to organize and share prompts for different AI models, including ChatGPT, Claude, Gemini, and Llama. It offers features to search, create, store, and manage your prompts with ease.
+The sole motivation for this project is that I wanted to create a website that could hold up all the prompts I see throughtout the day and make it easier for me to access those prompts from anywhere. I will add a database to this when I start earning but for now this gets the job done. Feel free to fork the repo and use it as you like. Also give suggestions for this project.
 
 ---
 
